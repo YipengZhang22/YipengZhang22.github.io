@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+Nice to meet you! I am Yipeng ZHANG (张翼鹏), currently a postgraduate student at Institution of Education(IoE), Tsinghua University, supervised by Prof. Xiaofeng TANG. Before joining IoE, I obtained my B.S. degree in computer science and technology from East China Normal University in 2022.
 
 ## Research Interests
 
