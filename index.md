@@ -8,8 +8,8 @@ Nice to meet you! I am Yipeng ZHANG (张翼鹏), currently a postgraduate studen
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Visualization:** data visualization, visual analysis, AI for VIS
+- **Engineering Education:** engineering ethics, teaching cases
 
 ## News
 
