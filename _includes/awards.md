@@ -22,6 +22,6 @@
 <h4 style="margin:0 10px 0;">Others</h4>
 
 <ul style="margin:0 0 20px;">
-  <li><autocolor>Outstanding Graduate of Shanghai (2022, Top 5%)</autocolor></li>
+  <li><a href="https://mp.weixin.qq.com/s/ARsVZ92H7yHd6Bf6SuOpng"><autocolor>Outstanding Graduate of Shanghai (2022, Top 5%)</autocolor></a></li>
   <li><autocolor>Excellent Student, East China Normal University (2019, 2020, 2021, Top 5%)</autocolor></li>
 </ul>
