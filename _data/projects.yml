@@ -2,22 +2,17 @@ main:
 
   - title: Identification of Development and Construction Activities within Ecological Protection Redlines and Ecological Space Control Areas Based on Deep Learning
     authors: <strong>Yipeng Zhang</strong>, Rufeng Liu, Mingyi He, Yitian Feng
-    conference_short: CVPR
     conference: IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2020.
     pdf: https://arxiv.org/pdf/2002.10211.pdf
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     page: https://class-il.mpi-inf.mpg.de/mnemonics/
     bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
-    notes: Oral Presentation
     image: ./assets/img/projects/p1.png
 
   - title: Poetry Museum
     authors: <strong>Yipeng Zhang</strong>, Chenhao Ni, Honghao Zhang
-    conference_short: MICCAI
-    conference: International Conference on Medical Image Computing and Computer-Assisted Intervention <strong>(MICCAI)</strong>, 2023.
+    conference: Frontend and Backend Development, Third Prize in the Internet Plus and Discovery Cup Software Design Competition, Second prize in the East China Normal University Computer Application Ability Competition, Third prize in the Shanghai Computer Application Ability Competition, Software Copyright
     pdf: https://arxiv.org/pdf/2306.00988.pdf
     code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/projects/p2.png
-    notes: Early Accept
-
