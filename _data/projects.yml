@@ -2,7 +2,7 @@ main:
 
   - title: Identification of Development and Construction Activities within Ecological Protection Redlines and Ecological Space Control Areas Based on Deep Learning
     authors: <strong>Yipeng Zhang</strong>, Rufeng Liu, Mingyi He, Yitian Feng
-    conference: Jiangsu Environmental Protection Group Co., Ltd., School of Software Engineering, Tsinghua University, Patent Application in Progress(First Student Author)
+    conference: Jiangsu Environmental Protection Group Co., Ltd., School of Software Engineering, Tsinghua University
     intro: https://mp.weixin.qq.com/s/z0Uz6KIc0AjupeToke-iHA
     demo: ./assets/files/demo1.mp4
     code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
