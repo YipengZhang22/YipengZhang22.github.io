@@ -1,1 +1,1 @@
-[{"SepalLength":6.5,"SepalWidth":3,"PetalLength":5.2,"PetalWidth":2,"Species":"I. virginica"},{"SepalLength":6.2,"SepalWidth":3.4,"PetalLength":5.4,"PetalWidth":2.3,"Species":"I. virginica"},{"SepalLength":5.9,"SepalWidth":3,"PetalLength":5.1,"PetalWidth":1.8,"Species":"I. virginica"}]
+[{"Clarity": 4, "Accuracy": 4, "Attractiveness": 1, "Detailing": 3, "Species": "Q-1"}, {"Clarity": 4, "Accuracy": 4, "Attractiveness": 3, "Detailing": 4, "Species": "Q-1"}, {"Clarity": 4, "Accuracy": 4, "Attractiveness": 3, "Detailing": 4, "Species": "Q-1"}]
