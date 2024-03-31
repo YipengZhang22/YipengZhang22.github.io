@@ -1,163 +1,20 @@
 [{
-	"SepalLength": 5.1,
-	"SepalWidth": 3.5,
-	"PetalLength": 1.4,
-	"PetalWidth": 0.2,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 4.9,
-	"SepalWidth": 3,
-	"PetalLength": 1.4,
-	"PetalWidth": 0.2,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 4.7,
-	"SepalWidth": 3.2,
-	"PetalLength": 1.3,
-	"PetalWidth": 0.2,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 4.6,
-	"SepalWidth": 3.1,
-	"PetalLength": 1.5,
-	"PetalWidth": 0.2,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 5,
-	"SepalWidth": 3.6,
-	"PetalLength": 1.4,
-	"PetalWidth": 0.2,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 5.4,
-	"SepalWidth": 3.9,
-	"PetalLength": 1.7,
-	"PetalWidth": 0.4,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 4.6,
-	"SepalWidth": 3.4,
-	"PetalLength": 1.4,
-	"PetalWidth": 0.3,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 5,
-	"SepalWidth": 3.4,
-	"PetalLength": 1.5,
-	"PetalWidth": 0.2,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 4.4,
-	"SepalWidth": 2.9,
-	"PetalLength": 1.4,
-	"PetalWidth": 0.2,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 4.9,
-	"SepalWidth": 3.1,
-	"PetalLength": 1.5,
-	"PetalWidth": 0.1,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 5.4,
-	"SepalWidth": 3.7,
-	"PetalLength": 1.5,
-	"PetalWidth": 0.2,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 4.8,
-	"SepalWidth": 3.4,
-	"PetalLength": 1.6,
-	"PetalWidth": 0.2,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 4.8,
-	"SepalWidth": 3,
-	"PetalLength": 1.4,
-	"PetalWidth": 0.1,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 4.3,
-	"SepalWidth": 3,
-	"PetalLength": 1.1,
-	"PetalWidth": 0.1,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 5.8,
-	"SepalWidth": 4,
-	"PetalLength": 1.2,
-	"PetalWidth": 0.2,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 5.7,
-	"SepalWidth": 4.4,
-	"PetalLength": 1.5,
-	"PetalWidth": 0.4,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 5.4,
-	"SepalWidth": 3.9,
-	"PetalLength": 1.3,
-	"PetalWidth": 0.4,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 5.1,
-	"SepalWidth": 3.5,
-	"PetalLength": 1.4,
-	"PetalWidth": 0.3,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 5.7,
-	"SepalWidth": 3.8,
-	"PetalLength": 1.7,
-	"PetalWidth": 0.3,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 5.1,
-	"SepalWidth": 3.8,
-	"PetalLength": 1.5,
-	"PetalWidth": 0.3,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 5.4,
-	"SepalWidth": 3.4,
-	"PetalLength": 1.7,
-	"PetalWidth": 0.2,
-	"Species": "I. setosa"
-}, {
-	"SepalLength": 6.7,
-	"SepalWidth": 3.3,
-	"PetalLength": 5.7,
-	"PetalWidth": 2.5,
-	"Species": "I. virginica"
-}, {
-	"SepalLength": 6.7,
-	"SepalWidth": 3,
-	"PetalLength": 5.2,
-	"PetalWidth": 2.3,
-	"Species": "I. virginica"
-}, {
-	"SepalLength": 6.3,
-	"SepalWidth": 2.5,
-	"PetalLength": 5,
-	"PetalWidth": 1.9,
-	"Species": "I. virginica"
-}, {
-	"SepalLength": 6.5,
-	"SepalWidth": 3,
-	"PetalLength": 5.2,
-	"PetalWidth": 2,
-	"Species": "I. virginica"
-}, {
-	"SepalLength": 6.2,
-	"SepalWidth": 3.4,
-	"PetalLength": 5.4,
-	"PetalWidth": 2.3,
-	"Species": "I. virginica"
-}, {
-	"SepalLength": 5.9,
-	"SepalWidth": 3,
-	"PetalLength": 5.1,
-	"PetalWidth": 1.8,
-	"Species": "I. virginica"
+	"Clarity" : 4,
+	"Accuracy" : 4,
+	"Attractiveness": 3,
+	"Detailing": 5,
+	"Species": "Q-1"
+},{
+	"Clarity" : 4,
+	"Accuracy" : 5,
+	"Attractiveness": 4,
+	"Detailing": 5,
+	"Species": "Q-1"
+},
+{
+	"Clarity" : 3,
+	"Accuracy" : 4,
+	"Attractiveness": 3,
+	"Detailing": 1,
+	"Species": "Q-1"
 }]
