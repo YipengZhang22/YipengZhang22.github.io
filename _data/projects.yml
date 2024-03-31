@@ -5,8 +5,14 @@ main:
     conference: Jiangsu Environmental Protection Group Co., Ltd., School of Software Engineering, Tsinghua University
     intro: https://mp.weixin.qq.com/s/z0Uz6KIc0AjupeToke-iHA
     demo: ./assets/files/demo1.mp4
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     image: ./assets/img/projects/p1.png
+
+
+  - title: Cancer Patient Data Management System
+    authors: <strong>Yipeng Zhang</strong>, Ruisi Li, Yijun Su, Taoqi Yang 
+    conference: Yiduo Cloud Internet Hospital Co., Ltd., School of Software Engineering, Tsinghua University
+    demo: ./assets/files/demo2.mp4
+    image: ./assets/img/projects/p3.png
 
   - title: Poetry Museum
     authors: <strong>Yipeng Zhang</strong>, Chenhao Ni, Honghao Zhang
