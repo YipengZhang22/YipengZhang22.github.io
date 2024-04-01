@@ -4,8 +4,5 @@ main:
     authors: <strong>Yipeng Zhang</strong>, Xiaofeng Tang, Gaoqi He, Chenhui Li
     conference_short: ChinaVis
     conference: The 10th China Visualizationand Visual Analytics Conference<strong>(ChinaVis)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2002.10211.pdf
-    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
-    page: https://class-il.mpi-inf.mpg.de/mnemonics/
-    bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
+    pdf: ./assets/files/ChinaVis2023_Poster_YipengZhang_ Explori....pdf
     image: ./assets/img/publications/1.png
