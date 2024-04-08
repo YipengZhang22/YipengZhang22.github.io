@@ -8,7 +8,7 @@ Nice to meet you! I am Yipeng ZHANG (张翼鹏), currently a postgraduate studen
 
 ## Research Interests
 
-- **Visualization:** Visualization, Visual analysis, AI for VIS, Computer Graphics, VR/AR
+- **Computer Graphics:** Visualization, AI for VIS, Computer Vision, VR/AR
 - **Engineering Education:** Engineering Ethics
 
 
