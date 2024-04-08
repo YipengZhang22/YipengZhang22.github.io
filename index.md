@@ -8,8 +8,8 @@ Nice to meet you! I am Yipeng ZHANG (张翼鹏), currently a postgraduate studen
 
 ## Research Interests
 
-- **Visualization:** data visualization, visual analysis, AI for VIS
-- **Engineering Education:** engineering ethics, teaching cases
+- **Visualization:** Visualization, Visual analysis, AI for VIS, Computer Graphics, VR/AR
+- **Engineering Education:** Engineering Ethics
 
 
 {% include_relative _includes/publications.md %}
