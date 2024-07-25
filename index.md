@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Nice to meet you! I am Yipeng ZHANG (张翼鹏), currently a postgraduate student at Institution of Education(IoE), Tsinghua University, supervised by [Prof. Xiaofeng TANG](https://www.ioe.tsinghua.edu.cn/info/1133/2228.htm). Before joining IoE, I obtained my B.S. degree in computer science and technology from East China Normal University in 2022.
+Nice to meet you! I am Yipeng ZHANG (张翼鹏), currently a postgraduate student at Institution of Education(IoE), Tsinghua University, supervised by [Prof. Xiaofeng TANG](https://www.ioe.tsinghua.edu.cn/info/1133/2228.htm). Before joining IoE, I obtained my B.S. degree in computer science and technology from East China Normal University in 2022, supervised by [Prof. Chenhui LI](http://chenhui.li/) in [ECNU Visualization Lab](https://ecnuvis.net/).
 
 ## Research Interests
 
