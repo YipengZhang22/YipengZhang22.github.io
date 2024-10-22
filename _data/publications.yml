@@ -1,5 +1,11 @@
 main:
 
+  - title: GVVST--Image-Driven Style Extraction from Graph Visualizations for Visual Style Transfer
+    authors: Sicheng Song, <strong>Yipeng Zhang</strong>, Yanna Lin, Huamin Qu, Changbo Wang, and Chenhui Li
+    conference_short: TVCG
+    conference: IEEE Transactions on Visualization and Computer Graphics，Accepted (CCF A)
+    image: ./assets/img/publications/2.png
+    
   - title: Exploring the impact of visualization tools on algorithm learning
     authors: <strong>Yipeng Zhang</strong>, Xiaofeng Tang, Gaoqi He, Chenhui Li
     conference_short: ChinaVis
@@ -7,8 +13,4 @@ main:
     pdf: ./assets/files/ChinaVis2023_Poster_YipengZhang_ Explori....pdf
     image: ./assets/img/publications/1.png
 
-  - title: GVVST--Image-Driven Style Extraction from Graph Visualizations for Visual Style Transfer
-    authors: Sicheng Song, <strong>Yipeng Zhang</strong>, Yanna Lin, Huamin Qu, Changbo Wang, and Chenhui Li
-    conference_short: TVCG
-    conference: IEEE Transactions on Visualization and Computer Graphics，Accepted (CCF A)
-    image: ./assets/img/publications/2.png
+
