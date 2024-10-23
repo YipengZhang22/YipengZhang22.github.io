@@ -3,7 +3,8 @@
 <h4 style="margin:0 10px 0;">Scholarships</h4>
 
 <ul style="margin:0 0 5px;">
-  <li><autocolor>Comprehensive First-Class Scholarship, Tsinghua University (2023, Top 15%)</autocolor></li>
+  <li><autocolor>Comprehensive Second-Class Scholarship, Tsinghua University (2024)</autocolor></li>
+   <li><autocolor>Comprehensive First-Class Scholarship, Tsinghua University (2023)</autocolor></li>
   <li><a href="https://www.cs.ecnu.edu.cn/17/59/c19867a399193/page.html/"><autocolor>Outstanding Award, KuanRui Technology Scholarship (2022, 1/130)</autocolor></a></li>
   <li><autocolor>Special Prize Scholarship, East China Normal University (2020, 4/130)</autocolor></li>
   <li><autocolor>Special Prize Scholarship, East China Normal University (2019, 3/130)</autocolor></li>
